@@ -54,6 +54,13 @@ section#q1 {
     margin: 10px;
 }
 
+section > p#outro {
+    color: black;
+    text-shadow: 1px 1px 2px black;
+    font-size: 27px;
+
+}
+
 
 footer {
     background-color: black;
